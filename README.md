@@ -32,7 +32,7 @@ I am passionate about making a difference and I desire to combine my knowledge a
 - 💬 Ask me about anything! Apart from my life as a Computer Science student, I involve myself in the mental health scene and volunteering space in Singapore in my free time. I also serve as Vice-President (Operations) in my school's [Student Government](https://www.root.sutd.edu.sg)!
 - 📫 How to reach me: Email me at [kelliesyhh@gmail.com](mailto:kelliesyhh@gmail.com) or drop me a message on Telegram [@kellief0rnia](https://t.me/kellief0rnia)!
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I am on the SUTD-Duke-NUS Special Track, and aspire to become a psychiatrist that can combine knowledge and technology to come up with medical innovations.
+- ⚡ Fun fact: I am on the [SUTD-Duke-NUS Special Track](https://www.sutd.edu.sg/SUTD-Duke-NUS), and aspire to become a psychiatrist that can combine knowledge and technology to come up with medical innovations.
 - 🔗 Read more about me on my [website](https://www.kelliesyhh.me), which was developed with React and Tailwind CSS! 
 
 
