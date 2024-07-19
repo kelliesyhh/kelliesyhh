@@ -25,14 +25,17 @@ I am always looking to use my engineering and technological skills to serve othe
 
 I am passionate about making a difference and I desire to combine my knowledge and technology to serve others. 
 
-- 🔭 I’m currently working on the [Kura Kura](https://kurakuraio.carrd.co/) mobile application, several research projects, and advocacy using [social media](https://www.instagram.com/kelliepandasg)
+My area of interest is Human-AI Interaction and Mental Health.
+
+- 🔭 I'm currently working on several research projects, and advocacy using [social media](https://www.instagram.com/kelliepandasg)
 - 🌱 I’m currently learning more about full-stack development, UI/UX design, and machine learning. I'm hoping to learn more about Human-Computer Interaction in the coming months too.
 - 👯 I’m always keen to collaborate or bounce ideas on anything mental health related, or anything that involves using technology in medical or healthcare settings.
 - 🤔 I’m looking for help with finding more hours in a day to do the things I love.
-- 💬 Ask me about anything! Apart from my life as a Computer Science student, I involve myself in the mental health scene and volunteering space in Singapore in my free time. I also serve as Vice-President (Operations) in my school's [Student Government](https://root.sutd.edu.sg)!
+- 💬 Ask me about anything!
+- 📱 I used to work on the [Kura Kura](https://kurakura.io/) mobile application.
 - 📫 How to reach me: Email me at [kelliesyhh@gmail.com](mailto:kelliesyhh@gmail.com) or drop me a message on Telegram [@kellief0rnia](https://t.me/kellief0rnia)!
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I am on the [SUTD-Duke-NUS Special Track](https://www.sutd.edu.sg/SUTD-Duke-NUS), and aspire to become a psychiatrist that can combine knowledge and technology to come up with medical innovations.
+- ⚡ Fun fact: I'm not fun
 - 🔗 Read more about me on my [website](https://kelliesyhh.me), which was developed with React and Tailwind CSS! 
 
 
