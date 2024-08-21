@@ -34,7 +34,7 @@ I am passionate about making a difference and I desire to combine my knowledge a
 - 📫 How to reach me: Email me at [kelliesyhh@gmail.com](mailto:kelliesyhh@gmail.com) or drop me a message on Telegram [@kellief0rnia](https://t.me/kellief0rnia)!
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: My birthday is 01/01/01 :-)
-- 🔗 Read more about me on my [website](https://kelliesyhh.me), which was developed with React and Tailwind CSS! 
+- 🔗 Read more about me on my [website](https://kelliesyhh.com), which was developed with React and Tailwind CSS! 
 
 
 <!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=kelliesyhh&count_private=true&show_icons=true&include_all_commits=true)
