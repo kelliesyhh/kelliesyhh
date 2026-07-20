@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a PhD Candidate in the [Information Systems Technology and Design](https://istd.sutd.edu.sg) pillar at the [Singapore University of Technology and Design (SUTD)](https://sutd.edu.sg). I graduated from SUTD with a Bachelor of Engineering (Computer Science and Design).
+I am a PhD Candidate in the [Information Systems Technology and Design](https://www.sutd.edu.sg/istd/) pillar at the [Singapore University of Technology and Design (SUTD)](https://sutd.edu.sg). I graduated from SUTD with a Bachelor of Engineering (Computer Science and Design).
 
 I am always looking to use my engineering and technological skills to serve others in medical and healthcare settings. 
 
