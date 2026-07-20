@@ -31,7 +31,7 @@ I am passionate about making a difference, and I desire to combine my knowledge 
 - 🤔 I’m looking for help with finding more hours in a day to do the things I love.
 - 💬 Ask me about anything!
 - 📱 I used to work on the [Kura Kura](https://kurakura.io/) mobile application.
-- 📫 How to reach me: Email me at [kellie_sim@gmail.com](mailto:kelliesyhh@gmail.com) (but with details so it isn't marked as spam!) or drop me a message on Telegram [@kellief0rnia](https://t.me/kellief0rnia)!
+- 📫 How to reach me: Email me at [kelliesyhh@gmail.com](mailto:kelliesyhh@gmail.com) (but with details so it isn't marked as spam!) or drop me a message on Telegram [@kellief0rnia](https://t.me/kellief0rnia)!
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: My birthday is 01/01/01 :-)
 - 🔗 Read more about me on my [website](https://kelliesyhh.com), which was developed with React and Tailwind CSS! 
