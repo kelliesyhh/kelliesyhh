@@ -19,19 +19,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a PhD student in the [Information Systems Technology and Design](https://istd.sutd.edu.sg) pillar at the [Singapore University of Technology and Design (SUTD)](https://sutd.edu.sg). I graduated from SUTD with a Bachelor of Engineering (Computer Science and Design). My area of interest is Human-AI Interaction and Mental Health.
+I am a PhD Candidate in the [Information Systems Technology and Design](https://istd.sutd.edu.sg) pillar at the [Singapore University of Technology and Design (SUTD)](https://sutd.edu.sg). I graduated from SUTD with a Bachelor of Engineering (Computer Science and Design).
 
 I am always looking to use my engineering and technological skills to serve others in medical and healthcare settings. 
 
-I am passionate about making a difference and I desire to combine my knowledge and technology to serve others. 
+I am passionate about making a difference, and I desire to combine my knowledge and technology to serve others. 
 
-- 🔭 I'm currently working on several research projects, and advocacy using [social media](https://www.instagram.com/kelliepandasg).
-- 🌱 I’m currently learning more about full-stack development, UI/UX design, and machine learning. I'm hoping to learn more about Human-Computer Interaction in the coming months too.
-- 👯 I’m always keen to collaborate or bounce ideas on anything mental health related, or anything that involves using technology in medical or healthcare settings.
+- 🌱 My research topic can be summarised as such: Human-AI Interaction and Sensitive Care Contexts.
+- - 🔭 I'm currently working on several research projects and advocacy using [social media](https://www.instagram.com/kelliepandasg).
+- 👯 I’m always keen to collaborate or bounce ideas on anything mental health-related, or anything that involves using technology in medical or healthcare settings.
 - 🤔 I’m looking for help with finding more hours in a day to do the things I love.
 - 💬 Ask me about anything!
 - 📱 I used to work on the [Kura Kura](https://kurakura.io/) mobile application.
-- 📫 How to reach me: Email me at [kelliesyhh@gmail.com](mailto:kelliesyhh@gmail.com) or drop me a message on Telegram [@kellief0rnia](https://t.me/kellief0rnia)!
+- 📫 How to reach me: Email me at [kellie_sim@gmail.com](mailto:kelliesyhh@gmail.com) (but with details so it isn't marked as spam!) or drop me a message on Telegram [@kellief0rnia](https://t.me/kellief0rnia)!
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: My birthday is 01/01/01 :-)
 - 🔗 Read more about me on my [website](https://kelliesyhh.com), which was developed with React and Tailwind CSS! 
